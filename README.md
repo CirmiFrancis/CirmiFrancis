@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francis Cirmi</h1>
 <h3 align="center">A future full-stack developer from Argentina!</h3>
 
-- 🌱 I’m currently learning **JavaScript & React JS**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **cirmifrancis@gmail.com**
 
