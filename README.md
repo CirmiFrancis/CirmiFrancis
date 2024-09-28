@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francis Cirmi</h1>
 <h3 align="center">- A React Frontend Developer Jr -</h3>
 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB & C**
+- 🌱 I’m currently learning **React, Tailwind CSS & C**
 - 👨‍💻 My most important projects are available at [portfolio-cirmifrancis.netlify.app/](https://portfolio-cirmifrancis.netlify.app/)
 - 📫 How to reach me **cirmifrancis@gmail.com**
 
